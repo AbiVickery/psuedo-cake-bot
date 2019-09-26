@@ -1,4 +1,25 @@
 body {
     background: rgb(255,238,238);
-background: linear-gradient(180deg, rgba(255,238,238,1) 0%, rgba(255,146,146,1) 66%, rgba(255,78,78,1) 100%);
+    background: linear-gradient(180deg, rgba(255,238,238,1) 0%, rgba(255,146,146,1) 66%, rgba(255,78,78,1) 100%);
+}
+
+#ingredients {
+    size: auto;
+    text-align: center;
+}
+#prep {
+    size: auto;
+    text-align: center;
+}
+#mixing {
+    size: auto;
+    text-align: center;
+}
+#baking {
+    size: auto;
+    text-align: center;
+}
+#after-bake {
+    size: auto;
+    text-align: center;
 }
