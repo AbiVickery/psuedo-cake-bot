@@ -20,7 +20,7 @@ body {
 }
 #baking {
     size: auto;
-    text-align: center;
+    /* text-align: center; */
     color: rgb(155, 149, 149);
 }
 #after-bake {
