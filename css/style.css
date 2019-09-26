@@ -16,12 +16,12 @@ body {
 #mixing {
     size: auto;
     text-align: center;
-    color: gray;
+    color: rgb(56, 38, 38);
 }
 #baking {
     size: auto;
     text-align: center;
-    color: gray;
+    color: rgb(155, 149, 149);
 }
 #after-bake {
     size: auto;
