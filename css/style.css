@@ -6,20 +6,25 @@ body {
 #ingredients {
     size: auto;
     text-align: center;
+    color: black;
 }
 #prep {
     size: auto;
     text-align: center;
+    color: black;
 }
 #mixing {
     size: auto;
     text-align: center;
+    color: gray;
 }
 #baking {
     size: auto;
     text-align: center;
+    color: gray;
 }
 #after-bake {
     size: auto;
     text-align: center;
+    color: white;
 }
