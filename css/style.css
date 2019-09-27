@@ -4,6 +4,13 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+#cakepop {
+    size: auto;
+     border-radius: 5%;
+     box-shadow: 7px 7px 7px 7px rgba(253, 210, 68, 0.918);
+     margin: 1px 0px;
+}
+
 #ingredients {
     size: auto;
     /* text-align: center; */
